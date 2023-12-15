@@ -1,4 +1,4 @@
-# DAKSH Toolchanger V2 - APLHA RELEASE
+# DAKSH Toolchanger V2 - APLHA 2 RELEASE
 Please use at your own risk - this project is still under development.
 
 
