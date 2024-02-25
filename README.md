@@ -32,19 +32,17 @@ Do join the discord group at the link below and subscribe to the Youtube channel
 https://www.tinkercad.com/things/gGSLXbT6uc8-daksh-v2-full-design-alpha-2-shared
 
 
-#Build Log and Demo videos 
-COMING SOON....
+Build Log and Demo videos 
+* COMING SOON....
 
-#Sample Prints
-COMING SOON....
-
-
-#Build Images
-COMING SOON....
+Sample Prints
+* COMING SOON....
 
 
-#Attributions
+Build Images
+* COMING SOON....
 
-Note: This project uses elements from a bunch of different projects by awesome people out there - I will be including a list of credits soon. My apologies for not doing that at the very onset due to paucity of time.
+
+Attributions - This project uses elements from a bunch of different projects by awesome people out there - I will be including a list of credits soon. My apologies for not doing that at the very onset due to paucity of time.
 
 * Quad Belted Z in based on the excellent work by genevamotion & thiagolocatelli - https://github.com/3DPrintingMods/VoronTrident-BeltedZ
