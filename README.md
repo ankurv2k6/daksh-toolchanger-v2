@@ -2,7 +2,7 @@
 
 'DAKSH V2' 3D Printed Tool Changer is a fully 3D printed mechanical tool changer compatible with different CoreXY platforms like the Voron Trident, 1.8, 2.4  and RatRig VCore 3. The servo less mechanical locking mechanism is inspired by the Prusa XL - but is fully 3d printed with metal inserts in the critical areas for rigidity and reliability.
 
-It features state of the art advanced features including: 
+Salient Features: 
 
   * Fully Mechanical Tool Changer
   * Ultra Fast tool changing times of under 4 seconds
