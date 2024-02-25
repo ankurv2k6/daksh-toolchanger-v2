@@ -5,7 +5,7 @@ DAKSH V2 3D Printed Tool Changer is a fully 3D printed mechanical tool changer c
 Salient Features: 
 
   * Fully Mechanical Tool Changer
-  * Ultra Fast tool changing times of under 4 seconds
+  * Ultra Fast tool changing time of under 4 seconds
   * Fully 3d Printed and assembled using off the shelf components - no machined parts required
   * Intelligent Error State Detection and Recovery minimizing failed prints
   * Intelligent Tool Heating Management for faster and efficient prints
