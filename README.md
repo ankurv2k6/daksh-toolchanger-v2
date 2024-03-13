@@ -36,7 +36,7 @@ Build Log and Demo videos
 * COMING SOON....
 
 Sample Prints
-* COMING SOON....
+* [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5WeLoIn3UTw/0.jpg)](https://www.youtube.com/watch?v=5WeLoIn3UTw)
 
 
 Build Images
