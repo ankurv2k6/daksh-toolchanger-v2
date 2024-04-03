@@ -36,8 +36,8 @@ Build Log and Demo videos
 * COMING SOON....
 
 Sample Prints
-* [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5WeLoIn3UTw/0.jpg)](https://www.youtube.com/watch?v=5WeLoIn3UTw)
-
+* [![Vase Print](https://img.youtube.com/vi/5WeLoIn3UTw/0.jpg)](https://www.youtube.com/watch?v=5WeLoIn3UTw)
+*[![IMAGE ALT TEXT HERE](images/IMG_2806.jpg)]
 
 Build Images
 * COMING SOON....
