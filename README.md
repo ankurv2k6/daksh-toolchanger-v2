@@ -40,10 +40,12 @@ Sample Prints
 [![Vase Print](https://img.youtube.com/vi/5WeLoIn3UTw/0.jpg)](https://www.youtube.com/watch?v=5WeLoIn3UTw)
 
 * Images
-[![IMAGE ALT TEXT HERE](images/IMG_2806.jpg)]
+
+<img src="images/IMG_2806.jpg" data-canonical-src="images/IMG_2806.jpg" width="800" />
 ** 5 Colour PLA Print - 0.6mm Nozzle / 0.25 Layer Height / 23 Hours / 2000 Tool Changes **
+
   
-[![IMAGE ALT TEXT HERE](images/IMG_2809.jpg)]
+<img src="images/IMG_2806.jpg" data-canonical-src="images/IMG_2809.jpg" width="800" />
 ** 5 Colour PLA Print - 0.6mm Nozzle / 0.25 Layer Height / 23 Hours / 2000 Tool Changes **
 
 Build Images
