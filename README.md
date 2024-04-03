@@ -40,13 +40,26 @@ Sample Prints
 [![Vase Print](https://img.youtube.com/vi/5WeLoIn3UTw/0.jpg)](https://www.youtube.com/watch?v=5WeLoIn3UTw)
 
 * Images
-
-<img src="images/IMG_2806.jpg" data-canonical-src="images/IMG_2806.jpg" width="800" />
-** 5 Colour PLA Print - 0.6mm Nozzle / 0.25 Layer Height / 23 Hours / 2000 Tool Changes **
-
   
+**5 Colour PLA Print - 0.6mm Nozzle / 0.25 Layer Height / 23 Hours / 2000 Tool Changes**
+<img src="images/IMG_2806.jpg" data-canonical-src="images/IMG_2806.jpg" width="800" />
+
+
+**5 Colour PLA Print - 0.6mm Nozzle / 0.25 Layer Height / 3 Hours / 300 Tool Changes**  
 <img src="images/IMG_2806.jpg" data-canonical-src="images/IMG_2809.jpg" width="800" />
-** 5 Colour PLA Print - 0.6mm Nozzle / 0.25 Layer Height / 23 Hours / 2000 Tool Changes **
+
+
+**TPU + PLA Print - 0.6mm Nozzle / 0.25 Layer Height / 23 Hours / 2000 Tool Changes**  
+<img src="images/IMG_2830.jpg" data-canonical-src="images/IMG_2830.jpg" width="800" />
+
+
+**TPU + PLA Print - 0.6mm Nozzle / 0.25 Layer Height / 8 Hours / 900 Tool Changes**  
+<img src="images/IMG_2837.jpg" data-canonical-src="images/IMG_2837.jpg" width="800" />
+
+
+**5 Colour PLA + PETG Support print - 0.6mm Nozzle / 0.25 Layer Height / 3 Hours / 600 Tool Changes**  
+<img src="images/IMG_3074.jpeg" data-canonical-src="images/IMG_3074.jpeg" width="800" />
+
 
 Build Images
 * COMING SOON....
