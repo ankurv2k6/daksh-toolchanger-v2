@@ -35,11 +35,11 @@ https://www.tinkercad.com/things/gGSLXbT6uc8-daksh-v2-full-design-alpha-2-shared
 Build Log and Demo videos 
 * COMING SOON....
 
-Sample Prints
-* TimeLapse 
+
+*TimeLapse 
 [![Vase Print](https://img.youtube.com/vi/5WeLoIn3UTw/0.jpg)](https://www.youtube.com/watch?v=5WeLoIn3UTw)
 
-* Images
+*Images
   
 **5 Colour PLA Print - 0.6mm Nozzle / 0.25 Layer Height / 23 Hours / 2000 Tool Changes**
 <img src="images/IMG_2806.jpg" data-canonical-src="images/IMG_2806.jpg" width="800" />
