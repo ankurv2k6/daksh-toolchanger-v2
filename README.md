@@ -44,7 +44,7 @@ Build Log and Demo videos
 
 
 **5 Colour PLA Print - 0.6mm Nozzle / 0.25 Layer Height / 3 Hours / 300 Tool Changes**  
-<img src="images/IMG_2806.jpg" data-canonical-src="images/IMG_2809.jpg" width="800" />
+<img src="images/IMG_2809.jpg" data-canonical-src="images/IMG_2809.jpg" width="800" />
 
 
 **TPU + PLA Print - 0.6mm Nozzle / 0.25 Layer Height / 23 Hours / 2000 Tool Changes**  
