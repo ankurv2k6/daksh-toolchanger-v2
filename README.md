@@ -25,7 +25,7 @@ Do join the discord group at the link below and subscribe to the Youtube channel
 * [Github](https://github.com/ankurv2k6/wp-daksh-toolchanger-v2)
 * [Youtube](https://www.youtube.com/channel/UCr8K1tva2CaEhyqNyaEjq_w)
 * [Daksh V2 Discord](https://discord.gg/HQWDepWG)
-* [BOM](https://github.com/ankurv2k6/daksh-toolchanger-v2/tree/main/BOM)
+* [BOM](https://github.com/ankurv2k6/daksh-toolchanger-v2/tree/main/BOM) Create a copy of this [Google sheet](https://docs.google.com/spreadsheets/d/11UvXF6FBCVRHxjejWgnOjJhMhHBDZpzY7ktGSjUUAWM/edit?usp=sharing) for a checklist
 
 
 #[TinkerCAD 3D Model](https://www.tinkercad.com/things/gGSLXbT6uc8-daksh-v2-full-design-alpha-2-shared)
@@ -64,4 +64,4 @@ Build Images
 
 Attributions - This project uses elements from a bunch of different projects by awesome people out there - I will be including a list of credits soon. My apologies for not doing that at the very onset due to paucity of time.
 
-* Quad Belted Z in based on the excellent work by genevamotion & thiagolocatelli - https://github.com/3DPrintingMods/VoronTrident-BeltedZ
+* [Quad Belted Z in based on the excellent work by genevamotion & thiagolocatelli](https://github.com/3DPrintingMods/VoronTrident-BeltedZ)
