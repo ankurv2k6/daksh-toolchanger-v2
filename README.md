@@ -24,7 +24,7 @@ Do join the discord group at the link below and subscribe to the Youtube channel
 
 * Github - https://github.com/ankurv2k6/wp-daksh-toolchanger-v2
 * Youtube - https://www.youtube.com/channel/UCr8K1tva2CaEhyqNyaEjq_w
-* Daksh Tool Changer Discord - h[ttps://discord.gg/Kz9VC8rWPg](https://discord.gg/6rKcCunw)
+* Daksh Tool Changer Discord - https://discord.gg/6rKcCunw
 * BOM - https://docs.google.com/spreadsheets/d/1QoVVL631YvgMzufe0YYzEZLL2HR7eI9XxlXjXiLeulk/edit#gid=0
 
 
