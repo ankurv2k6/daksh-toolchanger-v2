@@ -1,4 +1,4 @@
-# DAKSH V2 3D Printed Tool Changer - BETA 1
+# DAKSH V2 3D Printed Tool Changer - Open Beta
 
 DAKSH V2 3D Printed Tool Changer is a fully 3D printed mechanical tool changer compatible with different CoreXY platforms like the Voron Trident, 1.8, 2.4  and RatRig VCore 3. The servo less mechanical locking mechanism is inspired by the Prusa XL - but is fully 3d printed with metal inserts in the critical areas for rigidity and reliability.
 
@@ -22,14 +22,13 @@ The design is open source and can be used freely for non commercial purposes.
 
 Do join the discord group at the link below and subscribe to the Youtube channel for more updates and interesting projects like this.
 
-* Github - https://github.com/ankurv2k6/wp-daksh-toolchanger-v2
-* Youtube - https://www.youtube.com/channel/UCr8K1tva2CaEhyqNyaEjq_w
-* Daksh V2 Discord - https://discord.gg/Kz9VC8rWPg
-* BOM - https://docs.google.com/spreadsheets/d/1QoVVL631YvgMzufe0YYzEZLL2HR7eI9XxlXjXiLeulk/edit#gid=0
+* [Github](https://github.com/ankurv2k6/wp-daksh-toolchanger-v2)
+* [Youtube](https://www.youtube.com/channel/UCr8K1tva2CaEhyqNyaEjq_w)
+* [Daksh V2 Discord](https://discord.gg/HQWDepWG)
+* [BOM](https://github.com/ankurv2k6/daksh-toolchanger-v2/tree/main/BOM) Create a copy of this [Google sheet](https://docs.google.com/spreadsheets/d/11UvXF6FBCVRHxjejWgnOjJhMhHBDZpzY7ktGSjUUAWM/edit?usp=sharing) for a checklist
 
 
-#TinkerCAD 3D Model
-https://www.tinkercad.com/things/gGSLXbT6uc8-daksh-v2-full-design-alpha-2-shared
+#[TinkerCAD 3D Model](https://www.tinkercad.com/things/gGSLXbT6uc8-daksh-v2-full-design-alpha-2-shared)
 
 
 Build Log and Demo videos 
@@ -65,4 +64,4 @@ Build Images
 
 Attributions - This project uses elements from a bunch of different projects by awesome people out there - I will be including a list of credits soon. My apologies for not doing that at the very onset due to paucity of time.
 
-* Quad Belted Z in based on the excellent work by genevamotion & thiagolocatelli - https://github.com/3DPrintingMods/VoronTrident-BeltedZ
+* [Quad Belted Z in based on the excellent work by genevamotion & thiagolocatelli](https://github.com/3DPrintingMods/VoronTrident-BeltedZ)
