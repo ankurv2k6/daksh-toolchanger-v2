@@ -1,3 +1,5 @@
+Please refer to the [Google Sheets](https://docs.google.com/spreadsheets/d/11UvXF6FBCVRHxjejWgnOjJhMhHBDZpzY7ktGSjUUAWM/edit?usp=sharing) for the latest list
+
 Create a copy of [Google Sheets](https://docs.google.com/spreadsheets/d/11UvXF6FBCVRHxjejWgnOjJhMhHBDZpzY7ktGSjUUAWM/edit?usp=sharing) to act as your own checklist 
 
 |                      Item                     | Quantity |
