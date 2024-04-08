@@ -1,4 +1,4 @@
-Create a copy of Excel sheet to act as your own checklist 
+Create a copy of [Google Sheets](https://docs.google.com/spreadsheets/d/11UvXF6FBCVRHxjejWgnOjJhMhHBDZpzY7ktGSjUUAWM/edit?usp=sharing) to act as your own checklist 
 
 |                      Item                     | Quantity |
 |:---------------------------------------------:|:--------:|
