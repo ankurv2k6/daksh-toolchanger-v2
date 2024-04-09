@@ -28,9 +28,6 @@ Do join the discord group at the link below and subscribe to the Youtube channel
 * [BOM](https://github.com/ankurv2k6/daksh-toolchanger-v2/tree/main/BOM) Create a copy of this [Google sheet](https://docs.google.com/spreadsheets/d/11UvXF6FBCVRHxjejWgnOjJhMhHBDZpzY7ktGSjUUAWM/edit?usp=sharing) for a checklist
 
 
-#[TinkerCAD 3D Model](https://www.tinkercad.com/things/gGSLXbT6uc8-daksh-v2-full-design-alpha-2-shared)
-
-
 Build Log and Demo videos 
 * COMING SOON....
 
