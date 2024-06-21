@@ -1,1 +1,1 @@
-(Rear Docking/Daksh V2ool.png) | (Rear Docking/Daksh V2ool (1).png)
+<img src="CAD/V2ool/Rear Docking/Daksh V2ool.png"
