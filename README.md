@@ -24,7 +24,7 @@ Do join the discord group at the link below and subscribe to the Youtube channel
 
 * [Github](https://github.com/ankurv2k6/wp-daksh-toolchanger-v2)
 * [Youtube](https://www.youtube.com/channel/UCr8K1tva2CaEhyqNyaEjq_w)
-* [Daksh V2 Discord](https://discord.gg/HQWDepWG)
+* [Daksh V2 Discord](https://discord.gg/wJqUzYxYXH)
 * [BOM](https://github.com/ankurv2k6/daksh-toolchanger-v2/tree/main/BOM) Create a copy of this [Google sheet](https://docs.google.com/spreadsheets/d/11UvXF6FBCVRHxjejWgnOjJhMhHBDZpzY7ktGSjUUAWM/edit?usp=sharing) for a checklist
 
 
