@@ -75,28 +75,28 @@ class ToolLock:
         except Exception as e:
             self.log.always('Warning: Error booting up KTCC: %s' % str(e))
 
-        def Initialize_Tool_Lock(self):
-            if not self.init_printer_to_last_tool:
-                return None
-    
-            # self.log.always("Initialize_Tool_Lock running.")
-            save_variables = self.printer.lookup_object('save_variables')
-            try:
-                self.tool_current = save_variables.allVariables["tool_current"]
-            except:
-                self.tool_current = "-1"
-                save_variables.cmd_SAVE_VARIABLE(self.gcode.create_gcode_command(
-                    "SAVE_VARIABLE", "SAVE_VARIABLE", {"VARIABLE": "tool_current", 'VALUE': self.tool_current }))
-    
-            if str(self.tool_current) == "-1":
-                self.cmd_TOOL_UNLOCK()
-                self.log.always("ToolLock initialized unlocked")
-    
-            else:
-                t = self.tool_current
-                self.ToolLock(True)
-                self.SaveCurrentTool(str(t))
-                self.log.always("ToolLock initialized with T%s." % self.tool_current) 
+    def Initialize_Tool_Lock(self):
+        if not self.init_printer_to_last_tool:
+            return None
+
+        # self.log.always("Initialize_Tool_Lock running.")
+        save_variables = self.printer.lookup_object('save_variables')
+        try:
+            self.tool_current = save_variables.allVariables["tool_current"]
+        except:
+            self.tool_current = "-1"
+            save_variables.cmd_SAVE_VARIABLE(self.gcode.create_gcode_command(
+                "SAVE_VARIABLE", "SAVE_VARIABLE", {"VARIABLE": "tool_current", 'VALUE': self.tool_current }))
+
+        if str(self.tool_current) == "-1":
+            self.cmd_TOOL_UNLOCK()
+            self.log.always("ToolLock initialized unlocked")
+
+        else:
+            t = self.tool_current
+            self.ToolLock(True)
+            self.SaveCurrentTool(str(t))
+            self.log.always("ToolLock initialized with T%s." % self.tool_current) 
 
     cmd_TOOL_LOCK_help = "Lock the ToolLock."
     def cmd_TOOL_LOCK(self, gcmd = None):
